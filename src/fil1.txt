@@ -1,5 +1,5 @@
 dette er en
 fil
-med en 
+med en
 del linjer
-og innhold
+og innhold12
